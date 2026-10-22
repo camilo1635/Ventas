@@ -1,0 +1,97 @@
+[
+  {
+    "id":"Barra de sonido multicolor",
+    "nombre": "🔊 Barra de Sonido Multicolor - Nueva",
+    "descripcion": "¡Dale un toque moderno a tu espacio con esta barra de sonido! Disfruta de tu música favorita y acompaña tu ambiente con una espectacular iluminación RGB multicolor.",
+    "precio": 60000,
+    "imagenes": ["img/barra1.jpg", "img/barra2.jpg", "img/barra3.jpg", "img/barra4.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Bogotá, Chapinero", "mapa_query": "Chapinero, Bogotá, Colombia" },
+    "especificaciones": [
+      "✅ Estado: Nueva",
+      "📏 Tamaño compacto: 38,5 cm de largo",
+      "🌈 Iluminación RGB: Luces frontales multicolor que crean un ambiente gaming",
+      "📱 Conexión Bluetooth: Reproduce tu música de forma inalámbrica desde dispositivos compatibles",
+      "🔌 Alimentación USB: Fácil de conectar a una fuente de energía USB compatible",
+      "🖥️ Diseño moderno: Ideal para escritorios, computadores, habitaciones y espacios gamer"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Mini Parlante Bluetooth Tipo Cubo",
+    "nombre": "🔊 Mini Parlante Bluetooth Tipo Cubo – Nuevo",
+    "descripcion": "🔊 Mini Parlante Bluetooth Tipo Cubo – Nuevo Parlante compacto y portátil, ideal para escuchar música en cualquier lugar. ¡Pequeño en tamaño, práctico para llevar a todas partes!",
+    "precio": 20000,
+    "imagenes": ["img/mp3rosa1.jpg", "img/mp3rosa2.jpg", "img/mp3rosa3.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Medellín, El Poblado", "mapa_query": "El Poblado, Medellín, Colombia" },
+    "especificaciones": [
+      "✅ Conexión Bluetooth",
+      "✅ Potencia: 3W RMS",
+      "✅ Tamaño compacto: 5 × 5 cm",
+      "✅ Color disponible: Rosa",
+      "✅ Batería: 2–3 horas de duración",
+      "✅ Micrófono incorporado",
+      "✅ Incluye cable de carga USB-C",
+      "🎶 Diseño pequeño, moderno y fácil de transportar."
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "calefactor",
+    "nombre": "🔥 Calefactor Universal 1500W – Nuevo",
+    "descripcion": "Calefactor compacto, liviano y fácil de usar, ideal para el hogar u oficina.",
+    "precio": 130000,
+    "imagenes": ["img/calefactor1.png", "img/calefactor3.jpg", "img/calefactor2.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Cali, Granada", "mapa_query": "Granada, Cali, Colombia" },
+    "especificaciones": [
+      "✅ 2 niveles de potencia: 750W / 1500W",
+      "✅ Perilla de control de temperatura",
+      "✅ Función de ventilador normal",
+      "✅ Pequeño, ligero y fácil de transportar",
+      "✅ Producto nuevo"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Transmisor FM",
+    "nombre": "🚗 Transmisor FM Bluetooth para Carro – Nuevo",
+    "descripcion": "Convierte el sistema de sonido de tu carro en un equipo con Bluetooth, ideal para reproducir música y atender llamadas en vehículos que no tienen conexión Bluetooth.",
+    "precio": 30000,
+    "imagenes": ["img/mp3-1.jpg", "img/mp3-2.jpg", "img/mp3-3.jpg", "img/mp3-4.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Bogotá, Usaquén", "mapa_query": "Usaquén, Bogotá, Colombia" },
+    "especificaciones": [
+      "📲 Conexión Bluetooth",
+      "📻 Transmisión por radio FM al equipo del carro",
+      "🔌 Puerto USB para carga",
+      "🎵 Puerto USB para reproducción de música",
+      "🎙️ Micrófono incorporado para llamadas",
+      "⚙️ Fácil de instalar y usar"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "consola-demo",
+    "nombre": "Consola de Videojuegos + 2 controles",
+    "descripcion": "Consola en perfecto funcionamiento con dos controles y 3 juegos.",
+    "precio": 1650000,
+    "imagenes": ["img/consola-1.svg", "img/consola-2.svg"],
+    "video": "",
+    "ubicacion": { "texto": "Barranquilla, Norte", "mapa_query": "Barranquilla, Colombia" },
+    "especificaciones": ["1 TB", "2 controles", "3 juegos incluidos"],
+    "estado": "vendido"
+  },
+  {
+    "id": "camara-demo",
+    "nombre": "Cámara Mirrorless 24MP con lente 18-55mm",
+    "descripcion": "Video 4K, pantalla abatible, WiFi. Con batería extra y tarjeta de 64GB.",
+    "precio": 2980000,
+    "imagenes": ["img/camara-1.svg", "img/camara-2.svg"],
+    "video": "",
+    "ubicacion": { "texto": "Bucaramanga, Cabecera", "mapa_query": "Cabecera, Bucaramanga, Colombia" },
+    "especificaciones": ["24 MP", "Video 4K", "WiFi / Bluetooth"],
+    "estado": "disponible"
+  }
+]

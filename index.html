@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VentasJuan | Tecnología y electrónicos</title>
+  <meta name="description" content="Compra celulares, laptops, audio y más. Contacta al vendedor directo por WhatsApp.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Orbitron:wght@600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="nav">
+    <a class="logo" href="index.html">⚡ <span data-tienda>VentasJuan</span></a>
+    <span class="nav-note">Compra directa por WhatsApp</span>
+  </header>
+
+  <section class="hero">
+    <h1>Tecnología al mejor <span class="grad">precio</span></h1>
+    <p>Parlantes, PowerBanks, Relojes Inteligentes y más. Mira el producto y contactate con el vendedor por WhatsApp.</p>
+  </section>
+
+  <main class="container">
+    <div class="toolbar">
+      <input id="buscar" type="search" placeholder="Buscar producto…" aria-label="Buscar">
+      <select id="orden" aria-label="Ordenar">
+        <option value="recientes">Más recientes</option>
+        <option value="menor">Precio: menor a mayor</option>
+        <option value="mayor">Precio: mayor a menor</option>
+      </select>
+    </div>
+    <p id="conteo" class="count"></p>
+    <div id="grid" class="grid"><p class="empty">Cargando…</p></div>
+  </main>
+
+  <footer class="footer">© <span data-tienda>VentasJuan</span> · Los pagos se acuerdan directamente con el vendedor.</footer>
+  <a id="wa-fab" class="fab" target="_blank" rel="noopener"></a>
+
+  <script src="js/config.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
