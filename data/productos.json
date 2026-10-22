@@ -90,7 +90,7 @@
       "🔌 Salida USB",
       "🔌 Cargador incluido"
     ],
-    "estado": "vendido"
+    "estado": "agotado"
   },
   {
     "id": "Diademas con cancelación de ruido",
@@ -232,6 +232,44 @@
       "📤 Salida tipo C y iPhone (Lightning)",
       "🔌 Salida USB",
       "🔌 Cargador incluido"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Combo de 3 Parlantes de Segunda Mano",
+    "nombre": "🔊 Combo de 3 Parlantes de Segunda Mano",
+    "descripcion": "Lleva este combo de 3 parlantes usados, ideales para reemplazo, reparación o proyectos de sonido.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "♻️ Estado: Segunda mano",
+      "📦 Combo de 3 parlantes",
+      "🏷️ 1 parlante marca Panasonic",
+      "🔈 2 parlantes pequeños de 1600W con diseño de doble altavoz",
+      "📏 Diseño compacto y fácil de ubicar",
+      "🛠️ Ideales para reemplazo, reparación o proyectos de sonido"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Timbre Inalámbrico con Cámara HD",
+    "nombre": "🔔 Timbre Inalámbrico con Cámara HD – Nuevo",
+    "descripcion": "Timbre inteligente con conexión Wi-Fi, ideal para monitorear la entrada de tu hogar desde el celular.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "https://youtu.be/1uvrH1tnwLQ",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "📶 Conexión Wi-Fi",
+      "📹 Cámara HD",
+      "🎙️ Audio integrado",
+      "🌙 Visión nocturna",
+      "📲 Control y monitoreo mediante aplicación móvil",
+      "👀 Permite ver quién está en la puerta desde tu celular",
+      "🔧 Fácil de instalar y usar"
     ],
     "estado": "disponible"
   }

@@ -12,6 +12,10 @@ function waLink(texto) {
 }
 
 function waProducto(p) {
+  if (p.estado === "agotado") {
+    const u = new URL(`producto.html?id=${encodeURIComponent(p.id)}`, location.href).href;
+    return waLink(`Hola ${CONFIG.tienda}, vi que "${p.nombre}" está agotado. Quiero pedirlo por encargo.\n${u}`);
+  }
   const url = new URL(`producto.html?id=${encodeURIComponent(p.id)}`, location.href).href;
   return waLink(`Hola ${CONFIG.tienda}, me interesa "${p.nombre}" (${formatPrecio(p.precio)}). ¿Sigue disponible?\n${url}`);
 }

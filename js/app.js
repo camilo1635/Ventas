@@ -5,13 +5,13 @@ const grid = document.getElementById("grid");
 
 function tarjeta(p) {
   const img = p.imagenes?.[0] || "img/placeholder.svg";
-  const agotado = p.estado === "vendido";
+  const agotado = p.estado === "agotado";
   return `
   <article class="card ${agotado ? "sold" : ""}">
     <a class="card-img" href="producto.html?id=${encodeURIComponent(p.id)}">
       <img src="${esc(img)}" alt="${esc(p.nombre)}" loading="lazy">
       <span class="chip">${esc(p.categoria)}</span>
-      ${agotado ? '<span class="badge-sold">Vendido</span>' : ""}
+      ${agotado ? '<span class="badge-sold">Agotado · ¡Pídelo por encargo!</span>' : ""}
     </a>
     <div class="card-body">
       <h3><a href="producto.html?id=${encodeURIComponent(p.id)}">${esc(p.nombre)}</a></h3>

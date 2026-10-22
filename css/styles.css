@@ -61,7 +61,8 @@ img { max-width: 100%; display: block; }
 .info h1 { font-size: 1.7rem; margin-top: 10px; line-height: 1.25; }
 .btn-primary { display: flex; align-items: center; justify-content: center; gap: 10px; background: var(--wa); color: #fff; font-weight: 600; padding: 14px 20px; border-radius: 12px; box-shadow: 0 6px 24px rgba(37,211,102,.3); }
 .btn-primary:hover { filter: brightness(1.08); }
-.sold-msg { color: #fca5a5; margin-bottom: 12px; }
+.sold-msg { display: flex; flex-direction: column; gap: 4px; background: rgba(239,68,68,.12); border: 1px solid #ef4444; color: #fecaca; padding: 12px 14px; border-radius: 12px; margin-bottom: 14px; }
+.sold-msg strong { color: #fff; font-size: 1.05rem; }
 .block { margin-top: 26px; }
 .block h2 { font-family: Orbitron, sans-serif; font-size: 1rem; color: var(--cyan); margin-bottom: 10px; }
 .block p { color: #cfd6f6; white-space: pre-line; }

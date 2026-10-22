@@ -23,7 +23,7 @@ function mapaHTML(u) {
 function render(p) {
   document.title = `${p.nombre} | ${CONFIG.tienda}`;
   const imgs = p.imagenes?.length ? p.imagenes : ["img/placeholder.svg"];
-  const vendido = p.estado === "vendido";
+  const agotado = p.estado === "agotado";
   cont.innerHTML = `
     <a class="back" href="index.html">← Volver al catálogo</a>
     <div class="detail">
@@ -35,8 +35,8 @@ function render(p) {
         <span class="chip static">${esc(p.categoria)}</span>
         <h1>${esc(p.nombre)}</h1>
         <div class="price big">${formatPrecio(p.precio)}</div>
-        ${vendido ? '<p class="sold-msg">Este producto ya fue vendido.</p>' : ""}
-        <a class="btn-primary" href="${waProducto(p)}" target="_blank" rel="noopener">${WA_ICON} Contactar al vendedor por WhatsApp</a>
+        ${agotado ? '<div class="sold-msg"><strong>🔥 ¡Este producto está agotado!</strong><span>Pídelo por encargo con el vendedor y te lo conseguimos.</span></div>' : ""}
+        <a class="btn-primary" href="${waProducto(p)}" target="_blank" rel="noopener">${WA_ICON} ${agotado ? "Pedir por encargo por WhatsApp" : "Contactar al vendedor por WhatsApp"}</a>
         <section class="block"><h2>Descripción</h2><p>${esc(p.descripcion)}</p></section>
         ${p.especificaciones?.length ? `<section class="block"><h2>Características</h2><ul class="specs">${p.especificaciones.map((s) => `<li>${esc(s)}</li>`).join("")}</ul></section>` : ""}
       </div>

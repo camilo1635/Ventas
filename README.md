@@ -30,7 +30,7 @@ Edita `js/config.js`: `whatsapp` (código de país + número, solo dígitos), no
 }
 ```
 - `video`: enlace de YouTube o ruta a un `.mp4` (puede ir vacío `""`).
-- `estado`: `disponible` o `vendido`.
+- `estado`: `disponible` o `agotado` (los agotados muestran un aviso para pedir por encargo).
 - `id` debe ser único.
 
 ## Publicar
