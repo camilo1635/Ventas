@@ -26,13 +26,13 @@
     "video": "",
     "ubicacion": { "texto": "Medellín, El Poblado", "mapa_query": "El Poblado, Medellín, Colombia" },
     "especificaciones": [
-      "✅ Conexión Bluetooth",
-      "✅ Potencia: 3W RMS",
-      "✅ Tamaño compacto: 5 × 5 cm",
-      "✅ Color disponible: Rosa",
-      "✅ Batería: 2–3 horas de duración",
-      "✅ Micrófono incorporado",
-      "✅ Incluye cable de carga USB-C",
+      "📶 Conexión Bluetooth",
+      "🔊 Potencia: 3W RMS",
+      "📏 Tamaño compacto: 5 × 5 cm",
+      "🌸 Color disponible: Rosa",
+      "🔋 Batería: 2–3 horas de duración",
+      "🎤 Micrófono incorporado",
+      "🔌 Incluye cable de carga USB-C",
       "🎶 Diseño pequeño, moderno y fácil de transportar."
     ],
     "estado": "disponible"
@@ -46,11 +46,11 @@
     "video": "",
     "ubicacion": { "texto": "Cali, Granada", "mapa_query": "Granada, Cali, Colombia" },
     "especificaciones": [
-      "✅ 2 niveles de potencia: 750W / 1500W",
-      "✅ Perilla de control de temperatura",
-      "✅ Función de ventilador normal",
-      "✅ Pequeño, ligero y fácil de transportar",
-      "✅ Producto nuevo"
+      "⚡ 2 niveles de potencia: 750W / 1500W",
+      "🌡️ Perilla de control de temperatura",
+      "🌀 Función de ventilador normal",
+      "📦 Pequeño, ligero y fácil de transportar",
+      "🆕 Producto nuevo"
     ],
     "estado": "disponible"
   },
@@ -73,25 +73,166 @@
     "estado": "disponible"
   },
   {
-    "id": "consola-demo",
-    "nombre": "Consola de Videojuegos + 2 controles",
-    "descripcion": "Consola en perfecto funcionamiento con dos controles y 3 juegos.",
-    "precio": 1650000,
-    "imagenes": ["img/consola-1.svg", "img/consola-2.svg"],
+    "id": "Power Bank 10000 mAh",
+    "nombre": "🔋 Power Bank 10.000 mAh 22.5W – Nueva",
+    "descripcion": "Power bank nueva de 10.000 mAh con carga rápida de 22.5W.",
+    "precio": 0,
+    "imagenes": [],
     "video": "",
-    "ubicacion": { "texto": "Barranquilla, Norte", "mapa_query": "Barranquilla, Colombia" },
-    "especificaciones": ["1 TB", "2 controles", "3 juegos incluidos"],
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🆕 Estado: Nueva",
+      "🔋 Capacidad: 10.000 mAh",
+      "⚡ Potencia: 22.5W",
+      "🚀 Carga rápida",
+      "📥 Entrada tipo C",
+      "📤 Salida tipo C y iPhone (Lightning)",
+      "🔌 Salida USB",
+      "🔌 Cargador incluido"
+    ],
     "estado": "vendido"
   },
   {
-    "id": "camara-demo",
-    "nombre": "Cámara Mirrorless 24MP con lente 18-55mm",
-    "descripcion": "Video 4K, pantalla abatible, WiFi. Con batería extra y tarjeta de 64GB.",
-    "precio": 2980000,
-    "imagenes": ["img/camara-1.svg", "img/camara-2.svg"],
+    "id": "Diademas con cancelación de ruido",
+    "nombre": "🎧 Diademas con Cancelación de Ruido",
+    "descripcion": "Diademas inalámbricas con cancelación de ruido.",
+    "precio": 0,
+    "imagenes": [],
     "video": "",
-    "ubicacion": { "texto": "Bucaramanga, Cabecera", "mapa_query": "Cabecera, Bucaramanga, Colombia" },
-    "especificaciones": ["24 MP", "Video 4K", "WiFi / Bluetooth"],
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🎧 Cancelación de ruido",
+      "📡 Alcance inalámbrico: 10 metros",
+      "📶 Frecuencia de operación: 2,4 GHz - 2,4835 GHz",
+      "📞 Cambio automático a modo llamada entrante",
+      "🎵 Control de música y llamadas desde el auricular"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Parlante con soporte",
+    "nombre": "🔊 Parlante con Soporte para Teléfono",
+    "descripcion": "Parlante inalámbrico con base integrada para teléfono.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "📱 Base integrada para teléfono",
+      "🔄 Soporte giratorio de 360° para ajustar el ángulo de visión deseado",
+      "🔊 Sonido potente",
+      "📶 Transmisión inalámbrica estable y rápida",
+      "💡 Iluminación LED de ambiente incorporada en la base",
+      "🛋️ Diseño multifuncional, cómodo para escritorio o mesa de noche"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Set reloj inteligente con audífonos 1",
+    "nombre": "⌚ Set Reloj Inteligente con Audífonos y 7 Correas",
+    "descripcion": "Set de reloj inteligente con audífonos inalámbricos y 7 correas diferentes.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🎧 Audífonos inalámbricos Bluetooth con estuche de carga",
+      "🏃 Smartwatch con funciones deportivas",
+      "❤️ Monitoreo de salud",
+      "📱 Pantalla táctil de alta definición",
+      "🔔 Notificaciones inteligentes de llamadas y mensajes",
+      "🎨 7 correas intercambiables para personalización total"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Set reloj inteligente con audífonos 2",
+    "nombre": "⌚ Set Reloj Inteligente con Audífonos y 7 Correas",
+    "descripcion": "Set de reloj inteligente con audífonos inalámbricos y 7 correas diferentes.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🎧 Audífonos inalámbricos Bluetooth con estuche de carga",
+      "🏃 Smartwatch con funciones deportivas",
+      "❤️ Monitoreo de salud",
+      "📱 Pantalla táctil de alta definición",
+      "🔔 Notificaciones inteligentes de llamadas y mensajes",
+      "🎨 7 correas intercambiables para personalización total"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Cargador USB-C carga rápida adaptativa",
+    "nombre": "🔌 Cargador Nuevo USB-C de Carga Rápida Adaptativa",
+    "descripcion": "Cargador nuevo USB-C de carga rápida adaptativa.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🚀 Carga rápida adaptativa",
+      "🔌 Puerto USB-C",
+      "⚡ Salida máxima: 3.1A",
+      "🛡️ Protección contra sobrecarga y sobrecalentamiento",
+      "📱 Ideal para celulares, tablets y otros dispositivos USB-C"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Reloj inteligente Ultra 3 Crown",
+    "nombre": "⌚ Reloj Inteligente Ultra 3 Crown",
+    "descripcion": "Reloj inteligente Ultra 3 Crown con diseño premium y correa metálica.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "📱 Pantalla HD de 2.20\" de alta definición",
+      "💎 Diseño premium con correa metálica",
+      "🎨 Incluye múltiples correas intercambiables",
+      "🔔 Notificaciones inteligentes de llamadas y mensajes",
+      "❤️ Monitoreo de salud"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Proyector de luz nocturna Galaxy",
+    "nombre": "🌌 Proyector de Luz Nocturna Galaxy",
+    "descripcion": "Crea un ambiente mágico y relajante en cualquier espacio.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "✨ Crea un ambiente mágico y relajante en cualquier espacio",
+      "🌠 Proyecta nebulosas y estrellas de colores",
+      "🛏️ Ideal para habitaciones, decoración, fiestas o momentos de descanso",
+      "🎨 Diseño moderno",
+      "🎒 Portátil",
+      "👍 Fácil de usar"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Power Bank 20000 mAh",
+    "nombre": "🔋 Power Bank 20.000 mAh 45W – Nueva",
+    "descripcion": "Power bank nueva de 20.000 mAh con carga rápida de 45W.",
+    "precio": 0,
+    "imagenes": [],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🆕 Estado: Nueva",
+      "🔋 Capacidad: 20.000 mAh",
+      "⚡ Potencia: 45W",
+      "🚀 Carga rápida",
+      "📥 Entrada tipo C",
+      "📤 Salida tipo C y iPhone (Lightning)",
+      "🔌 Salida USB",
+      "🔌 Cargador incluido"
+    ],
     "estado": "disponible"
   }
 ]
