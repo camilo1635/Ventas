@@ -76,8 +76,8 @@
     "id": "Power Bank 10000 mAh",
     "nombre": "🔋 Power Bank 10.000 mAh 22.5W – Nueva",
     "descripcion": "Power bank nueva de 10.000 mAh con carga rápida de 22.5W.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 60000,
+    "imagenes": ["img/power1.jpeg", "img/power2.jpeg", "img/power3.jpeg", "img/power4.jpeg"],
     "video": "",
     "ubicacion": { "texto": "", "mapa_query": "" },
     "especificaciones": [
@@ -131,8 +131,8 @@
     "id": "Set reloj inteligente con audífonos 1",
     "nombre": "⌚ Set Reloj Inteligente con Audífonos y 7 Correas",
     "descripcion": "Set de reloj inteligente con audífonos inalámbricos y 7 correas diferentes.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 100000,
+    "imagenes": ["img/combo2.png", "img/combo1.png", "img/combo3.png"],
     "video": "",
     "ubicacion": { "texto": "", "mapa_query": "" },
     "especificaciones": [
@@ -149,8 +149,8 @@
     "id": "Set reloj inteligente con audífonos 2",
     "nombre": "⌚ Set Reloj Inteligente con Audífonos y 7 Correas",
     "descripcion": "Set de reloj inteligente con audífonos inalámbricos y 7 correas diferentes.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 140000,
+    "imagenes": ["img/combo1.jpeg", "img/combo2.jpeg", "img/combo3.jpeg"],
     "video": "",
     "ubicacion": { "texto": "", "mapa_query": "" },
     "especificaciones": [
@@ -167,8 +167,8 @@
     "id": "Cargador USB-C carga rápida adaptativa",
     "nombre": "🔌 Cargador Nuevo USB-C de Carga Rápida Adaptativa",
     "descripcion": "Cargador nuevo USB-C de carga rápida adaptativa.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 10000,
+    "imagenes": ["img/cargador1.jpeg", "img/cargador2.jpeg", "img/cargador3.jpeg"],
     "video": "",
     "ubicacion": { "texto": "", "mapa_query": "" },
     "especificaciones": [
@@ -184,8 +184,8 @@
     "id": "Reloj inteligente Ultra 3 Crown",
     "nombre": "⌚ Reloj Inteligente Ultra 3 Crown",
     "descripcion": "Reloj inteligente Ultra 3 Crown con diseño premium y correa metálica.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 50000,
+    "imagenes": ["img/relojeconomico2.png", "img/relojeconomico1.png", "img/relojeconomico3.png"],
     "video": "",
     "ubicacion": { "texto": "", "mapa_query": "" },
     "especificaciones": [
@@ -239,8 +239,8 @@
     "id": "Combo de 3 Parlantes de Segunda Mano",
     "nombre": "🔊 Combo de 3 Parlantes de Segunda Mano",
     "descripcion": "Lleva este combo de 3 parlantes usados, ideales para reemplazo, reparación o proyectos de sonido.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 60000,
+    "imagenes": ["img/Parlante1.jpeg", "img/Parlante2.jpeg", "img/Parlante3.jpeg", "img/Parlante4.jpg"],
     "video": "",
     "ubicacion": { "texto": "", "mapa_query": "" },
     "especificaciones": [
@@ -257,8 +257,8 @@
     "id": "Timbre Inalámbrico con Cámara HD",
     "nombre": "🔔 Timbre Inalámbrico con Cámara HD – Nuevo",
     "descripcion": "Timbre inteligente con conexión Wi-Fi, ideal para monitorear la entrada de tu hogar desde el celular.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 50000,
+    "imagenes": ["img/timbre1.jpeg", "img/timbre2.jpeg", "img/timbre3.jpeg"],
     "video": "https://youtu.be/1uvrH1tnwLQ",
     "ubicacion": { "texto": "", "mapa_query": "" },
     "especificaciones": [
@@ -272,5 +272,43 @@
       "🔧 Fácil de instalar y usar"
     ],
     "estado": "disponible"
+  },
+  {
+    "id": "Parlante Bluetooth RGB",
+    "nombre": "🔊 Parlante Bluetooth RGB – Nuevo",
+    "descripcion": "Parlante compacto con sonido de 5W y luces RGB, ideal para disfrutar música en cualquier lugar.",
+    "precio": 40000,
+    "imagenes": ["img/bafle1.jpg", "img/bafle2.jpg", "img/bafle3.jpg", "img/bafle4.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "📶 Conexión Bluetooth",
+      "🌈 Luces RGB",
+      "🔊 Potencia: 5W",
+      "📻 Radio FM",
+      "🔌 Entrada USB, AUX y Micro SD",
+      "🔋 Batería: 4–6 horas de duración",
+      "🎤 Micrófono incorporado",
+      "📦 Incluye caja, cargador y cable auxiliar"
+    ],
+    "estado": "agotado"
+  },
+  {
+    "id": "Cable Tipo C RGB 180W",
+    "nombre": "🔌 Cable Tipo C con Luces RGB 180W – Nuevo",
+    "descripcion": "Cable tipo C nuevo con luces RGB y carga de alta potencia.",
+    "precio": 10000,
+    "imagenes": ["img/cable1.jpeg", "img/cable2.jpeg"],
+    "video": "",
+    "ubicacion": { "texto": "", "mapa_query": "" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔌 Conector tipo C",
+      "⚡ Salida: 12A",
+      "🚀 Potencia: 180W",
+      "🌈 Luces RGB",
+      "🎨 Colores disponibles: negro y gris"
+    ],
+    "estado": "agotado"
   }
 ]
