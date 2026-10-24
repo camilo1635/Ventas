@@ -77,7 +77,7 @@
     "nombre": "🔋 Power Bank 10.000 mAh 22.5W – Nueva",
     "descripcion": "Power bank nueva de 10.000 mAh con carga rápida de 22.5W.",
     "precio": 60000,
-    "imagenes": ["img/power1.jpeg", "img/power2.jpeg", "img/power3.jpeg", "img/power4.jpeg"],
+    "imagenes": ["img/Power1.jpeg", "img/Power2.jpeg", "img/Power3.jpeg", "img/Power4.jpeg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
@@ -168,7 +168,7 @@
     "nombre": "🔌 Cargador Nuevo USB-C de Carga Rápida Adaptativa",
     "descripcion": "Cargador nuevo USB-C de carga rápida adaptativa.",
     "precio": 10000,
-    "imagenes": ["img/cargador1.jpeg", "img/cargador2.jpeg", "img/cargador3.jpeg"],
+    "imagenes": ["img/Cargador1.jpeg", "img/Cargador2.jpeg", "img/Cargador3.jpeg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
