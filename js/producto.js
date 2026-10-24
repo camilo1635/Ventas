@@ -14,7 +14,7 @@ function videoHTML(url) {
 
 function mapaHTML(u) {
   if (!u) return "";
-  const q = encodeURIComponent(u.mapa_query || u.texto);
+  const q = encodeURIComponent(u.texto);
   return `<section class="block"><h2>Ubicación</h2>
     <p class="loc">📍 ${esc(u.texto)}</p>
     <div class="map"><iframe src="https://www.google.com/maps?q=${q}&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa"></iframe></div></section>`;

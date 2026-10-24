@@ -24,7 +24,7 @@ Edita `js/config.js`: `whatsapp` (código de país + número, solo dígitos), no
   "precio": 500000,
   "imagenes": ["img/foto1.jpg", "img/foto2.jpg"],
   "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-  "ubicacion": { "texto": "Ciudad, barrio", "mapa_query": "barrio, ciudad, país" },
+  "ubicacion": { "texto": "Pitalito, Huila" },
   "especificaciones": ["dato 1", "dato 2"],
   "estado": "disponible"
 }

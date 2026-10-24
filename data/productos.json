@@ -6,7 +6,7 @@
     "precio": 60000,
     "imagenes": ["img/barra1.jpg", "img/barra2.jpg", "img/barra3.jpg", "img/barra4.jpg"],
     "video": "",
-    "ubicacion": { "texto": "Bogotá, Chapinero", "mapa_query": "Chapinero, Bogotá, Colombia" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "✅ Estado: Nueva",
       "📏 Tamaño compacto: 38,5 cm de largo",
@@ -24,7 +24,7 @@
     "precio": 20000,
     "imagenes": ["img/mp3rosa1.jpg", "img/mp3rosa2.jpg", "img/mp3rosa3.jpg"],
     "video": "",
-    "ubicacion": { "texto": "Medellín, El Poblado", "mapa_query": "El Poblado, Medellín, Colombia" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "📶 Conexión Bluetooth",
       "🔊 Potencia: 3W RMS",
@@ -44,7 +44,7 @@
     "precio": 130000,
     "imagenes": ["img/calefactor1.png", "img/calefactor3.jpg", "img/calefactor2.jpg"],
     "video": "",
-    "ubicacion": { "texto": "Cali, Granada", "mapa_query": "Granada, Cali, Colombia" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "⚡ 2 niveles de potencia: 750W / 1500W",
       "🌡️ Perilla de control de temperatura",
@@ -61,7 +61,7 @@
     "precio": 30000,
     "imagenes": ["img/mp3-1.jpg", "img/mp3-2.jpg", "img/mp3-3.jpg", "img/mp3-4.jpg"],
     "video": "",
-    "ubicacion": { "texto": "Bogotá, Usaquén", "mapa_query": "Usaquén, Bogotá, Colombia" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "📲 Conexión Bluetooth",
       "📻 Transmisión por radio FM al equipo del carro",
@@ -79,7 +79,7 @@
     "precio": 60000,
     "imagenes": ["img/power1.jpeg", "img/power2.jpeg", "img/power3.jpeg", "img/power4.jpeg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 10.000 mAh",
@@ -96,10 +96,10 @@
     "id": "Diademas con cancelación de ruido",
     "nombre": "🎧 Diademas con Cancelación de Ruido",
     "descripcion": "Diademas inalámbricas con cancelación de ruido.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 50000,
+    "imagenes": ["img/diademas1.jpeg", "img/diademas2.jpeg", "img/diademas3.jpeg", "img/diademas4.jpeg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🎧 Cancelación de ruido",
       "📡 Alcance inalámbrico: 10 metros",
@@ -116,7 +116,7 @@
     "precio": 0,
     "imagenes": [],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "📱 Base integrada para teléfono",
       "🔄 Soporte giratorio de 360° para ajustar el ángulo de visión deseado",
@@ -134,7 +134,7 @@
     "precio": 100000,
     "imagenes": ["img/combo2.png", "img/combo1.png", "img/combo3.png"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🎧 Audífonos inalámbricos Bluetooth con estuche de carga",
       "🏃 Smartwatch con funciones deportivas",
@@ -152,7 +152,7 @@
     "precio": 140000,
     "imagenes": ["img/combo1.jpeg", "img/combo2.jpeg", "img/combo3.jpeg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🎧 Audífonos inalámbricos Bluetooth con estuche de carga",
       "🏃 Smartwatch con funciones deportivas",
@@ -170,7 +170,7 @@
     "precio": 10000,
     "imagenes": ["img/cargador1.jpeg", "img/cargador2.jpeg", "img/cargador3.jpeg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🚀 Carga rápida adaptativa",
       "🔌 Puerto USB-C",
@@ -187,7 +187,7 @@
     "precio": 50000,
     "imagenes": ["img/relojeconomico2.png", "img/relojeconomico1.png", "img/relojeconomico3.png"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "📱 Pantalla HD de 2.20\" de alta definición",
       "💎 Diseño premium con correa metálica",
@@ -204,7 +204,7 @@
     "precio": 0,
     "imagenes": [],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "✨ Crea un ambiente mágico y relajante en cualquier espacio",
       "🌠 Proyecta nebulosas y estrellas de colores",
@@ -219,10 +219,10 @@
     "id": "Power Bank 20000 mAh",
     "nombre": "🔋 Power Bank 20.000 mAh 45W – Nueva",
     "descripcion": "Power bank nueva de 20.000 mAh con carga rápida de 45W.",
-    "precio": 0,
-    "imagenes": [],
+    "precio": 120000,
+    "imagenes": ["img/power5.jpeg", "img/power6.jpeg", "img/power7.jpeg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 20.000 mAh",
@@ -230,8 +230,7 @@
       "🚀 Carga rápida",
       "📥 Entrada tipo C",
       "📤 Salida tipo C y iPhone (Lightning)",
-      "🔌 Salida USB",
-      "🔌 Cargador incluido"
+      "🔌 Salida USB"
     ],
     "estado": "disponible"
   },
@@ -242,7 +241,7 @@
     "precio": 60000,
     "imagenes": ["img/Parlante1.jpeg", "img/Parlante2.jpeg", "img/Parlante3.jpeg", "img/Parlante4.jpg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "♻️ Estado: Segunda mano",
       "📦 Combo de 3 parlantes",
@@ -260,7 +259,7 @@
     "precio": 50000,
     "imagenes": ["img/timbre1.jpeg", "img/timbre2.jpeg", "img/timbre3.jpeg"],
     "video": "https://youtu.be/1uvrH1tnwLQ",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🆕 Estado: Nuevo",
       "📶 Conexión Wi-Fi",
@@ -280,7 +279,7 @@
     "precio": 40000,
     "imagenes": ["img/bafle1.jpg", "img/bafle2.jpg", "img/bafle3.jpg", "img/bafle4.jpg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "📶 Conexión Bluetooth",
       "🌈 Luces RGB",
@@ -300,7 +299,7 @@
     "precio": 10000,
     "imagenes": ["img/cable1.jpeg", "img/cable2.jpeg"],
     "video": "",
-    "ubicacion": { "texto": "", "mapa_query": "" },
+    "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🆕 Estado: Nuevo",
       "🔌 Conector tipo C",
