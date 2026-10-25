@@ -202,7 +202,7 @@
     "nombre": "🌌 Proyector de Luz Nocturna Galaxy",
     "descripcion": "Crea un ambiente mágico y relajante en cualquier espacio.",
     "precio": 80000,
-    "imagenes": [],
+    "imagenes": ["img/proyector1.png", "img/proyector2.png", "img/proyector3.png"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
