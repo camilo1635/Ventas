@@ -19,7 +19,6 @@ Edita `js/config.js`: `whatsapp` (código de país + número, solo dígitos), no
 {
   "id": "mi-producto",
   "nombre": "Nombre",
-  "categoria": "Celulares",
   "descripcion": "Texto…",
   "precio": 500000,
   "imagenes": ["img/foto1.jpg", "img/foto2.jpg"],
