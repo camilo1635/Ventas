@@ -84,6 +84,7 @@
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 10.000 mAh",
       "⚡ Potencia: 22.5W",
+      "🔋 Duracion: 2 cargas completas para la mayoría de los teléfonos inteligentes",
       "📱 Indicador de carga LED",
       "🚀 Carga rápida",
       "📥 Entrada tipo C",
@@ -244,6 +245,7 @@
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 20.000 mAh",
       "⚡ Potencia: 22.5W",
+      "🔋 Duracion: 4 cargas completas para la mayoría de los teléfonos inteligentes",
       "📱 Indicador de carga LED",
       "🚀 Carga rápida",
       "📥 Entrada tipo C",
@@ -355,6 +357,7 @@
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 30.000 mAh",
       "⚡ Potencia: 22.5W",
+      "🔋 Duracion: 6 cargas completas para la mayoría de los teléfonos inteligentes",
       "📱 Indicador de carga LED",
       "🚀 Carga rápida",
       "📥 Entrada tipo C",
@@ -375,6 +378,7 @@
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 30.000 mAh",
       "⚡ Potencia: 22.5W",
+      "🔋 Duracion: 6 cargas completas para la mayoría de los teléfonos inteligentes",
       "📱 Indicador de carga LED",
       "🚀 Carga rápida",
       "📥 Entrada tipo C",
@@ -424,6 +428,26 @@
     "estado": "disponible"
   },
   {
+    "id": "Parlante Harvic Nuevo",
+    "nombre": "🔊 Parlante Harvic Nuevo",
+    "descripcion": "Parlante nuevo con excelente calidad de sonido.",
+    "precio": 70000,
+    "imagenes": ["img/parlante9.jpg", "img/parlante10.jpg", "img/parlante11.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔊 Excelente calidad de sonido",
+      "📶 Conexión Bluetooth",
+      "🔌 Cargador incluido",
+      "📥 Entrada memoria USB",
+      "📥 Entrada memoria micro SD",
+      "🌈 Luces RGB",
+      "🌈 Colores disponibles: Negro"
+    ],
+    "estado": "disponible"
+  },
+  {
     "id": "Marrana tipo C Nuevo",
     "nombre": "Marranita tipo C Nuevo - 25W",
     "descripcion": "Marranita tipo C nuevo de 25W.",
@@ -455,6 +479,76 @@
       "📥 Entrada memoria micro SD",
       "🌈 Luces RGB",
       "🌈 Colores disponibles: Rojo"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Tripode",
+    "nombre": "Tripode para Celular – Nuevo",
+    "descripcion": "Tripode para Celular – Nuevo.",
+    "precio": 30000,
+    "imagenes": ["img/tripode2.jpg","img/tripode1.jpg","img/tripode3.jpg","img/tripode4.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔄 Incluye pegante para celular",
+      "📱 Compatible con la mayoría de los teléfonos inteligentes",
+      "🎥 Ideal para grabación de videos, videollamadas y fotografía",
+      "💡 Ligero y portátil, fácil de transportar",
+      "🛠️ Material resistente y duradero"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Audifonos inalambricos",
+    "nombre": "Audífonos Inalámbricos – Nuevos",
+    "descripcion": "Audífonos Inalámbricos – Nuevos.",
+    "precio": 20000,
+    "imagenes": ["img/audifonos10.jpg","img/audifonos11.jpg","img/audifonos12.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔊 Sonido de alta calidad",
+      "📶 Conexión Bluetooth",
+      "🎤 Micrófono incorporado para llamadas",
+      "🎵 Control de música y llamadas desde los auriculares",
+      "🌈 Colores disponibles: Blanco"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Cargador USB a tipo C 33W – Nuevo",
+    "nombre": "Cargador USB a tipo C 33W – Nuevo",
+    "descripcion": "Cargador USB a tipo C 33W – Nuevo.",
+    "precio": 20000,
+    "imagenes": ["img/cargador15.jpg","img/cargador16.jpg","img/cargador17.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "⚡ Potencia: 33W",
+      "🔌 Conexión: USB tipo C",
+      "🚀 Carga rápida",
+      "📱 Compatible con celulares, tablets y otros dispositivos USB-C"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Cargador tipo C a tipo C 50W – Nuevo",
+    "nombre": "Cargador tipo C a tipo C 50W – Nuevo",
+    "descripcion": "Cargador tipo C a tipo C 50W – Nuevo. Cable trenzado de buena calidad",
+    "precio": 35000,
+    "imagenes": ["img/cargador18.jpg","img/cargador19.jpg","img/cargador20.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "⚡ Potencia: 50W",
+      "🔌 Conexión: tipo C a tipo C",
+      "🚀 Carga rápida",
+      "📱 Compatible con celulares, tablets y otros dispositivos USB-C"
     ],
     "estado": "disponible"
   }
