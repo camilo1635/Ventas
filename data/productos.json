@@ -181,6 +181,23 @@
     "estado": "disponible"
   },
   {
+    "id": "Audifonos JBL",
+    "nombre": "Audifonos JBL de conduccion osea - Nuevos",
+    "descripcion": "Audifonos JBL de conduccion osea - Nuevos.",
+    "precio": 60000,
+    "imagenes": ["img/audifonos1.jpg", "img/audifonos2.jpg", "img/audifonos3.jpg", "img/audifonos4.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔊 Sonido de alta calidad",
+      "📶 Conexión Bluetooth",
+      "🔌 Cargador incluido",
+      "🌈 Colores disponibles: Negro"
+    ],
+    "estado": "disponible"
+  },
+  {
     "id": "Reloj inteligente Ultra 3 Crown",
     "nombre": "⌚ Reloj Inteligente Ultra 3 Crown",
     "descripcion": "Reloj inteligente Ultra 3 Crown con diseño premium y correa metálica.",
@@ -217,16 +234,17 @@
   },
   {
     "id": "Power Bank 20000 mAh",
-    "nombre": "🔋 Power Bank 20.000 mAh 45W – Nueva",
-    "descripcion": "Power bank nueva de 20.000 mAh con carga rápida de 45W.",
-    "precio": 120000,
-    "imagenes": ["img/power5.jpeg", "img/power6.jpeg", "img/power7.jpeg"],
+    "nombre": "🔋 Power Bank 20.000 mAh 22.5W – Nueva",
+    "descripcion": "Power bank nueva de 20.000 mAh con carga rápida de 22.5W.",
+    "precio": 100000,
+    "imagenes": ["img/power12.jpg", "img/power13.jpg", "img/power14.jpg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 20.000 mAh",
-      "⚡ Potencia: 45W",
+      "⚡ Potencia: 22.5W",
+      "📱 Indicador de carga LED",
       "🚀 Carga rápida",
       "📥 Entrada tipo C",
       "📤 Salida tipo C y iPhone (Lightning)",
@@ -322,6 +340,121 @@
       "1 metro de longitud",
       "siliconado",
       "cable tipo C a tipo C"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Power Bank 30000 mAh",
+    "nombre": "🔋 Power Bank 30.000 mAh 22.5W – Nueva",
+    "descripcion": "Power bank nueva de 30.000 mAh con carga rápida de 22.5W.",
+    "precio": 120000,
+    "imagenes": ["img/power15.jpg", "img/power16.jpg", "img/power17.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nueva",
+      "🔋 Capacidad: 30.000 mAh",
+      "⚡ Potencia: 22.5W",
+      "📱 Indicador de carga LED",
+      "🚀 Carga rápida",
+      "📥 Entrada tipo C",
+      "📤 Salida tipo C y iPhone (Lightning)",
+      "🔌 Salida USB"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Power Bank 30000 mAh Metalica",
+    "nombre": "🔋 Power Bank Metalica 30.000 mAh 22.5W – Nueva",
+    "descripcion": "Power bank nueva de 30.000 mAh con carga rápida de 22.5W.",
+    "precio": 160000,
+    "imagenes": ["img/power18.jpg", "img/power19.jpg", "img/power20.jpg", "img/power21.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nueva",
+      "🔋 Capacidad: 30.000 mAh",
+      "⚡ Potencia: 22.5W",
+      "📱 Indicador de carga LED",
+      "🚀 Carga rápida",
+      "📥 Entrada tipo C",
+      "📥 Entrada USB"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Parlante JBL Nuevo",
+    "nombre": "🔊 Parlante JBL Nuevo",
+    "descripcion": "Parlante nuevo con excelente calidad de sonido.",
+    "precio": 50000,
+    "imagenes": ["img/parlante1.jpg", "img/parlante2.jpg", "img/parlante3.jpg", "img/parlante4.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔊 Excelente calidad de sonido",
+      "📶 Conexión Bluetooth",
+      "📻 Conexion a radio FM",
+      "🔋 Batería de 4 horas de duración",
+      "🔌 Cargador incluido",
+      "📥 Entrada memoria USB",
+      "📥 Entrada memoria micro SD",
+      "🌈 Colores disponibles: Negro, Azul y morado"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Parlante Harvic Nuevo",
+    "nombre": "🔊 Parlante Harvic Nuevo",
+    "descripcion": "Parlante nuevo con excelente calidad de sonido.",
+    "precio": 70000,
+    "imagenes": ["img/parlante5.jpg", "img/parlante6.jpg", "img/parlante7.jpg", "img/parlante8.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔊 Excelente calidad de sonido",
+      "📶 Conexión Bluetooth",
+      "🔌 Cargador incluido",
+      "📥 Entrada memoria USB",
+      "📥 Entrada memoria micro SD",
+      "🌈 Luces RGB",
+      "🌈 Colores disponibles: Negro"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Marrana tipo C Nuevo",
+    "nombre": "Marranita tipo C Nuevo - 25W",
+    "descripcion": "Marranita tipo C nuevo de 25W.",
+    "precio": 12000,
+    "imagenes": ["img/cargador11.jpg", "img/cargador12.jpg", "img/cargador13.jpg", "img/cargador14.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "⚡ Potencia: 25W",
+      "📦 Incluye caja"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Parlante generico",
+    "nombre": "🔊 Parlante Bluetooth – Nuevo",
+    "descripcion": "Parlante Bluetooth – Nuevo.",
+    "precio": 60000,
+    "imagenes": ["img/parlante12.jpg","img/parlante13.jpg","img/parlante14.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "🆕 Estado: Nuevo",
+      "🔊 Sonido de alta calidad",
+      "📶 Conexión Bluetooth",
+      "🔌 Cargador incluido",
+      "📥 Entrada memoria USB",
+      "📥 Entrada memoria micro SD",
+      "🌈 Luces RGB",
+      "🌈 Colores disponibles: Rojo"
     ],
     "estado": "disponible"
   }
