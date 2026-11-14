@@ -41,7 +41,7 @@
     "id": "calefactor",
     "nombre": "🔥 Calefactor Universal 1500W – Nuevo",
     "descripcion": "Calefactor compacto, liviano y fácil de usar, ideal para el hogar u oficina.",
-    "precio": 130000,
+    "precio": 120000,
     "imagenes": ["img/calefactor1.png", "img/calefactor3.jpg", "img/calefactor2.jpg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
@@ -73,30 +73,30 @@
     "estado": "disponible"
   },
   {
-    "id": "Power Bank 10000 mAh",
-    "nombre": "🔋 Power Bank 10.000 mAh 22.5W – Nueva",
-    "descripcion": "Power bank nueva de 10.000 mAh con carga rápida de 22.5W.",
-    "precio": 60000,
-    "imagenes": ["img/Power1.jpeg", "img/Power2.jpeg", "img/Power3.jpeg", "img/Power4.jpeg"],
+    "id": "Power Bank 10000 mAh Magnetica",
+    "nombre": "🔋 Power Bank Magnetica de 10.000 mAh 22.5W – Nueva",
+    "descripcion": "Power bank Magnetica de 10.000 mAh con carga rápida de 22.5W, entrada y salida tipo C y USB.",
+    "precio": 90000,
+    "imagenes": ["img/power8.jpg", "img/power9.jpg", "img/power10.jpg", "img/power11.jpg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
       "🆕 Estado: Nueva",
       "🔋 Capacidad: 10.000 mAh",
       "⚡ Potencia: 22.5W",
+      "📱 Indicador de carga LED",
       "🚀 Carga rápida",
       "📥 Entrada tipo C",
-      "📤 Salida tipo C y iPhone (Lightning)",
-      "🔌 Salida USB",
-      "🔌 Cargador incluido"
+      "📤 Salida tipo C",
+      "🔌 Salida USB"
     ],
-    "estado": "agotado"
+    "estado": "disponible"
   },
   {
     "id": "Diademas con cancelación de ruido",
     "nombre": "🎧 Diademas con Cancelación de Ruido",
     "descripcion": "Diademas inalámbricas con cancelación de ruido.",
-    "precio": 50000,
+    "precio": 40000,
     "imagenes": ["img/diademas1.jpeg", "img/diademas2.jpeg", "img/diademas3.jpeg", "img/diademas4.jpeg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
@@ -184,7 +184,7 @@
     "id": "Reloj inteligente Ultra 3 Crown",
     "nombre": "⌚ Reloj Inteligente Ultra 3 Crown",
     "descripcion": "Reloj inteligente Ultra 3 Crown con diseño premium y correa metálica.",
-    "precio": 50000,
+    "precio": 60000,
     "imagenes": ["img/relojeconomico2.png", "img/relojeconomico1.png", "img/relojeconomico3.png"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
@@ -201,7 +201,7 @@
     "id": "Proyector de luz nocturna Galaxy",
     "nombre": "🌌 Proyector de Luz Nocturna Galaxy",
     "descripcion": "Crea un ambiente mágico y relajante en cualquier espacio.",
-    "precio": 80000,
+    "precio": 70000,
     "imagenes": ["img/proyector1.png", "img/proyector2.png", "img/proyector3.png"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
@@ -231,24 +231,6 @@
       "📥 Entrada tipo C",
       "📤 Salida tipo C y iPhone (Lightning)",
       "🔌 Salida USB"
-    ],
-    "estado": "disponible"
-  },
-  {
-    "id": "Combo de 3 Parlantes de Segunda Mano",
-    "nombre": "🔊 Combo de 3 Parlantes de Segunda Mano",
-    "descripcion": "Lleva este combo de 3 parlantes usados, ideales para reemplazo, reparación o proyectos de sonido.",
-    "precio": 60000,
-    "imagenes": ["img/Parlante1.jpeg", "img/Parlante2.jpeg", "img/Parlante3.jpeg", "img/Parlante4.jpg"],
-    "video": "",
-    "ubicacion": { "texto": "Pitalito, Huila" },
-    "especificaciones": [
-      "♻️ Estado: Segunda mano",
-      "📦 Combo de 3 parlantes",
-      "🏷️ 1 parlante marca Panasonic",
-      "🔈 2 parlantes pequeños de 1600W con diseño de doble altavoz",
-      "📏 Diseño compacto y fácil de ubicar",
-      "🛠️ Ideales para reemplazo, reparación o proyectos de sonido"
     ],
     "estado": "disponible"
   },
@@ -293,21 +275,54 @@
     "estado": "agotado"
   },
   {
-    "id": "Cable Tipo C RGB 180W",
-    "nombre": "🔌 Cable Tipo C con Luces RGB 180W – Nuevo",
-    "descripcion": "Cable tipo C nuevo con luces RGB y carga de alta potencia.",
-    "precio": 10000,
-    "imagenes": ["img/cable1.jpeg", "img/cable2.jpeg"],
+    "id": "Cargador tipo C Nuevo",
+    "nombre": "🔌 Cargador Tipo C (35W)– Nuevo",
+    "descripcion": "Cargador tipo C Nuevo",
+    "precio": 38000,
+    "imagenes": ["img/cargador4.jpg", "img/cargador5.jpg", "img/cargador6.jpg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
-      "🆕 Estado: Nuevo",
-      "🔌 Conector tipo C",
-      "⚡ Salida: 12A",
-      "🚀 Potencia: 180W",
-      "🌈 Luces RGB",
-      "🎨 Colores disponibles: negro y gris"
+      "1 metro de longitud",
+      "sellado",
+      "35W de potencia",
+      "carga rápida",
+      "compatible con celulares, tablets y otros dispositivos USB-C",
+      "cable tipo C a tipo C"
     ],
-    "estado": "agotado"
+    "estado": "disponible"
+  },
+  {
+    "id": "Cargador tipo Lightning (Iphone) Nuevo",
+    "nombre": "🔌 Cargador Tipo Lightning (Iphone) (25W)– Nuevo",
+    "descripcion": "Cargador tipo Lightning Nuevo",
+    "precio": 30000,
+    "imagenes": ["img/cargador7.jpg", "img/cargador8.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "1 metro de longitud",
+      "sellado",
+      "25W de potencia",
+      "carga rápida",
+      "compatible con celulares, tablets y otros dispositivos Lightning",
+      "cable tipo C a tipo Lightning"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "Cable tipo C (1 metro) siliconado Nuevo",
+    "nombre": "🔌 Cable Tipo C (1 metro) siliconado – Nuevo",
+    "descripcion": "Cable tipo C (1 metro) siliconado Nuevo",
+    "precio": 10000,
+    "imagenes": ["img/cargador9.jpg", "img/cargador10.jpg"],
+    "video": "",
+    "ubicacion": { "texto": "Pitalito, Huila" },
+    "especificaciones": [
+      "1 metro de longitud",
+      "siliconado",
+      "cable tipo C a tipo C"
+    ],
+    "estado": "disponible"
   }
 ]
