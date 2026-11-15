@@ -299,15 +299,15 @@
     "estado": "disponible"
   },
   {
-    "id": "Diademas con cancelación de ruido",
-    "nombre": "🎧 Diademas con Cancelación de Ruido",
-    "descripcion": "Diademas inalámbricas con cancelación de ruido.",
+    "id": "Diademas sencillas",
+    "nombre": "🎧 Diademas Sencillas",
+    "descripcion": "Diademas inalámbricas sencillas.",
     "precio": 40000,
     "imagenes": ["img/diademas1.jpeg", "img/diademas2.jpeg", "img/diademas3.jpeg", "img/diademas4.jpeg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
-      "🎧 Cancelación de ruido",
+      "🆕 Estado: Nuevo",
       "📡 Alcance inalámbrico: 10 metros",
       "📶 Frecuencia de operación: 2,4 GHz - 2,4835 GHz",
       "📞 Cambio automático a modo llamada entrante",
