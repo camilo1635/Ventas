@@ -18,9 +18,9 @@
     "estado": "disponible"
   },
   {
-    "id": "Reloj inteligente Ultra 3 Crown ",
-    "nombre": "⌚ Reloj Inteligente Ultra 3 Crown – Nuevo",
-    "descripcion": "Reloj inteligente Ultra 3 Crown con diseño premium y correa metálica.",
+    "id": "Reloj inteligente Ultra 3 Dorado ",
+    "nombre": "⌚ Reloj Inteligente Ultra 3 Dorado – Nuevo",
+    "descripcion": "Reloj inteligente Ultra 3 Dorado con diseño premium y correa metálica.",
     "precio": 60000,
     "imagenes": ["img/relojeconomico2.png", "img/relojeconomico1.png", "img/relojeconomico3.png"],
     "video": "",
@@ -230,7 +230,7 @@
     "nombre": "⌚ Set Reloj Inteligente con Audífonos y 7 Correas",
     "descripcion": "Set de reloj inteligente con audífonos inalámbricos y 7 correas diferentes.",
     "precio": 100000,
-    "imagenes": ["img/combo2.png", "img/combo1.png", "img/combo3.png"],
+    "imagenes": ["img/combo1.jpg", "img/combo2.jpg", "img/combo3.jpg"],
     "video": "",
     "ubicacion": { "texto": "Pitalito, Huila" },
     "especificaciones": [
