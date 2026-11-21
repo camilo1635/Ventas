@@ -552,22 +552,5 @@
       "📱 Compatible con celulares, tablets y otros dispositivos USB-C"
     ],
     "estado": "disponible"
-  },
-  {
-    "id": "Cargador USB-C carga rápida adaptativa",
-    "nombre": "🔌 Cargador Nuevo USB-C de Carga Rápida Adaptativa",
-    "descripcion": "Cargador nuevo USB-C de carga rápida adaptativa.",
-    "precio": 10000,
-    "imagenes": ["img/Cargador1.jpeg", "img/Cargador2.jpeg", "img/Cargador3.jpeg"],
-    "video": "",
-    "ubicacion": { "texto": "Pitalito, Huila" },
-    "especificaciones": [
-      "🚀 Carga rápida adaptativa",
-      "🔌 Puerto USB-C",
-      "⚡ Salida máxima: 3.1A",
-      "🛡️ Protección contra sobrecarga y sobrecalentamiento",
-      "📱 Ideal para celulares, tablets y otros dispositivos USB-C"
-    ],
-    "estado": "disponible"
   }
 ]
