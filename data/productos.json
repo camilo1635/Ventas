@@ -316,26 +316,6 @@
     "estado": "disponible"
   },  
   {
-    "id": "Timbre Inalámbrico con Cámara HD",
-    "nombre": "🔔 Timbre Inalámbrico con Cámara HD – Nuevo",
-    "descripcion": "Timbre inteligente con conexión Wi-Fi, ideal para monitorear la entrada de tu hogar desde el celular.",
-    "precio": 50000,
-    "imagenes": ["img/timbre1.jpeg", "img/timbre2.jpeg", "img/timbre3.jpeg"],
-    "video": "https://youtu.be/1uvrH1tnwLQ",
-    "ubicacion": { "texto": "Pitalito, Huila" },
-    "especificaciones": [
-      "🆕 Estado: Nuevo",
-      "📶 Conexión Wi-Fi",
-      "📹 Cámara HD",
-      "🎙️ Audio integrado",
-      "🌙 Visión nocturna",
-      "📲 Control y monitoreo mediante aplicación móvil",
-      "👀 Permite ver quién está en la puerta desde tu celular",
-      "🔧 Fácil de instalar y usar"
-    ],
-    "estado": "disponible"
-  },
-  {
     "id": "Parlante Bluetooth RGB",
     "nombre": "🔊 Parlante Bluetooth RGB – Nuevo",
     "descripcion": "Parlante compacto con sonido de 5W y luces RGB, ideal para disfrutar música en cualquier lugar.",
